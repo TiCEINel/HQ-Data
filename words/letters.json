@@ -1,0 +1,34 @@
+{
+    "type": "startRound",
+    "totalRows": 3,
+    "totalTiles": "15",
+    "totalTimeMs": 15000,
+    "lettersState": [
+        {
+            "row": 1,
+            "totalTiles": 7,
+            "breakPoint": 5,
+            "rowBreak": 7,
+            "preloadedItems": []
+        },
+        {
+            "row": 2,
+            "totalTiles": 3,
+            "breakPoint": 2,
+            "rowBreak": 7,
+            "preloadedItems": []
+        },
+        {
+            "row": 3,
+            "totalTiles": 5,
+            "breakPoint": null,
+            "rowBreak": null,
+            "preloadedItems": [
+                {
+                    "character": "?",
+                    "preloadTile": 5
+                }
+            ]
+        }
+    ]
+}
