@@ -1,0 +1,7 @@
+{
+    "type": "dynamicPotAnimation",
+    "totalTimeMs": 7000,
+    "currentPrizeCents": 1000,
+    "currency": "USD",
+    "ts": "2017-11-29T05:43:00.000Z"
+}
