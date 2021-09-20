@@ -1,0 +1,14 @@
+{
+    "type": "gameCountdown",
+    "variant": "218-blue",
+    "time": {
+        "totalTimeMs": 145800,
+        "length": 138000,
+        "sped": 1.25
+    },
+    "audio": {
+        "fade": true,
+        "fadeMs": 4000
+    },
+    "ts": "2018-01-11T22:12:00.000Z"
+}
