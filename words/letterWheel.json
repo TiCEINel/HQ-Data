@@ -1,0 +1,9 @@
+{
+    "type": "letterWheel",
+    "practiceSpin": false, 
+    "maxSpins": 1,
+    "totalTimeMs": 12000,
+    "ts": "2018-05-17T03:47:00.000Z",
+    "id": 68,
+    "letters": ["W","O","R","D","S"]
+}
