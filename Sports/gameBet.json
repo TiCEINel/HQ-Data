@@ -1,0 +1,26 @@
+{
+    "type": "bet",
+    "question": "What precentage of users do you think will win tonights game?",
+    "questionId": 72631,
+    "percentages": {
+        "start": 1,
+        "max": 100,
+        "min": 1
+    },
+    "buttons": [
+        {
+            "text": "Place Bet",
+            "action": "betSubmit",
+            "id": 278
+        },
+        {
+            "text": "Cancel",
+            "action": "betCancel",
+            "id": 278
+        }
+    ],
+    "betNumber": 1,
+    "betCount": 3,
+    "totalTimeMs": 20000,
+    "ts": "2018-07-27T05:46:39.000Z"
+}
