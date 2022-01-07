@@ -1,0 +1,10 @@
+{
+    "type": "adminQuestion",
+    "totalTimeMs": 10000,
+    "questionList": 38,
+    "action": "post-question",
+    "catogory": {
+        "name": "technology",
+        "id": "technology"
+    }
+}

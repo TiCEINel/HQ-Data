@@ -1,0 +1,45 @@
+{
+    "type": "clientVideoConnection",
+    "data": {
+        "connectionId": "connectionId",
+        "video": true,
+        "audio": true,
+        "videoDimensions": {
+            "width": 640,
+            "height": 480
+        },
+        "bandwidth": {
+            "audio": 50,
+            "video": 300
+        },
+        "videoCodec": "H264",
+        "audioCodec": "AAC",
+        "videoFps": 30,
+        "videoMaxBitrate": 300,
+        "videoMinBitrate": 50,
+        "videoMaxFrameRate": 48,
+        "videoMinFrameRate": 5
+    },
+    "webrtc": {
+        "requestedConnection":{
+            "location": "wss://ws.prod.hype.space/games/date-night/user/3695/connection/2875",
+            "totalTimeMs": 120000,
+            "users": [
+                {
+                    "isMain": true,
+                    "isSecondary": false,
+                    "id": "3695",
+                    "name": "test",
+                    "avatar": ""
+                },
+                {
+                    "isMain": false,
+                    "isSecondary": true,
+                    "id": "2875",
+                    "name": "test",
+                    "avatar": ""
+                }
+            ]
+        }
+    }
+}

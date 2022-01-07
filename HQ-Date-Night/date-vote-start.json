@@ -1,0 +1,20 @@
+{
+    "type": "date-vote",
+    "totalTimeMs": 15000,
+    "ts": "2018-01-01T00:00:00.000Z",
+    "totalUploads": 1,
+    "actions": {
+        "swipe": {
+            "left": "downvote",
+            "right": "upvote"
+        }
+    },
+    "stack": [
+        {
+            "username": "user1",
+            "userId": "3695",
+            "image": "https://cdn.prod.hype.space/media/date-night/user-images/Izg3fPtZxc40uFRHLeC9JmfdSqRtt66PPySo.jpg",
+            "uploadInfoTkn": "eyJkZXZpY2UiOm51bGwsInVzZXJuYW1lIjoidXNlcjEiLCJ1c2VySWQiOiIzNjk1IiwiaW1hZ2UiOiJodHRwczovL2Nkbi5wcm9kLmh5cGUuc3BhY2UvbWVkaWEvZGF0ZS1uaWdodC91c2VyLWltYWdlcy9JemczZlB0WnhjNDB1RlJITGVDOUptZmRTcVJ0dDY2UFB5U28uanBnIiwidG90YWxWb3Rlc0JlZm9yZVVwbG9hZCI6MCwibWF0Y2hlcyI6eyJ0b3RhbCI6MCwidXNlcnMiOltdfSwiYWxnIjoiSFMyNTYifQ.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.PApCSv3ybubw02ffpVRd8mQty2ciThrw9Z_rr2ukM14"
+        }
+    ]
+}

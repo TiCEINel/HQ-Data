@@ -1,0 +1,13 @@
+{
+    "type": "hostReveal",
+    "hostInfo": {
+        "name": "Rus Yusupov",
+        "image": "https://cdn.prod.hype.space/static/channel/hosts/rus-yusupov.png",
+        "socialHandle": {
+            "type": "twitter",
+            "handle": "@rus",
+            "url": "https://twitter.com/rus",
+            "webPreview": false
+        }
+    }
+}
